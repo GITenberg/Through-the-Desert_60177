@@ -1,0 +1,41 @@
+_repo: Through-the-Desert_60177
+_version: 0.0.1
+alternative_title: W pustyni i w puszczy. English
+contributor:
+  translator:
+    agent_name: Artois, Mary W. (Mary Webb)
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '50828'
+    url: http://www.gutenberg.org/2009/agents/50828
+creator:
+  author:
+    agent_name: Sienkiewicz, Henryk
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1052'
+    url: http://www.gutenberg.org/2009/agents/1052
+    wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
+description: ''
+gutenberg_issued: '2019-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60177'
+  lccn: '12001474'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wilderness survival -- Fiction'
+- !lcsh 'Sudan -- History -- 1881-1899 -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Africa -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Children -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcc 'PZ'
+- !lcsh 'Kidnapping -- Fiction'
+- GITenberg
+title: Through the Desert
+url: http://www.gutenberg.org/ebooks/60177
