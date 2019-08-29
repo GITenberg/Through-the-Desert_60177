@@ -1,5 +1,5 @@
 _repo: Through-the-Desert_60177
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: W pustyni i w puszczy. English
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1935
     gutenberg_agent_id: '50828'
     url: http://www.gutenberg.org/2009/agents/50828
+covers:
+- cover_type: archival
+  image_path: 60177-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Sienkiewicz, Henryk
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1052
     wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60177#Through-the-Desert
 gutenberg_issued: '2019-08-26'
 gutenberg_type: Text
 identifiers:
